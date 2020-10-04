@@ -10,5 +10,3 @@ you have a scheduler between 9AM to 5PM.  You can click into the large boxes and
 
 # Screenshot
 <img src="https://github.com/asgharbhutta/Ass-5-Scheduler/blob/master/Ass-5-Scheduler.png">
-<img width=“964” alt=“java 8 and prio java 8  array review example” src=“”/>
-
